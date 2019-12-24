@@ -1,7 +1,7 @@
 module.exports = {
   title: '大气环境监测数据平台',
   description: '专注环境监测',
-  base: '',
+  base: '/md/',
   sidebar: 'auto',
   themeConfig: {
     sidebarDepth: 2,
